@@ -1,1 +1,2 @@
 print("ini kodingan landing page")
+print("ini kodingan sudah done")
